@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680780365 source:c:\users\lenovo\desktop\实验1\参考代码\ex1_1001_spring2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1680791315 source:c:\users\dell\desktop\实验1\实验1\参考代码\ex1_1001_spring2023\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

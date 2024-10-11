@@ -1,0 +1,14 @@
+
+connected: 1
+the minimum fare between 1 and 3: 4
+Path: 1->0->3
+diameter:7
+radius:4
+
+connected: 1
+the minimum fare between 1 and 3: 7
+Path: 1->2->3
+diameter:16
+radius:9
+
+connected: 0
